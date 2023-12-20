@@ -19,7 +19,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "tod_app/wsgi.py"
+            "dest": "todo_app/wsgi.py"
         }
     ]
 }
